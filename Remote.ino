@@ -1,3 +1,14 @@
+
+/*
+  Created by Jeremy Thompson, 2026
+  
+  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
+  Unported License. To view a copy of this license, visit 
+  http://creativecommons.org or send a letter to 
+  Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+*/
+
+
 #include <esp_now.h>
 #include <WiFi.h>
 #include <Preferences.h>
